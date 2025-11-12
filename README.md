@@ -1,7 +1,7 @@
 ## SPLITREADER pipeline 
 The details of the scripts to detect non-reference transposable element insertions from short-read sequencing data is described in Baduel et al. MMB 2021 [10.1007/978-1-0716-1134-0_15](https://doi.org/10.1007/978-1-0716-1134-0_15). <br/>
 
-### Getting the SPLITREADER_v1
+### How to get the SPLITREADER_v1
 
 `git clone https://github.com/PEpiTE-team/SPLITREADER_v1`
 
